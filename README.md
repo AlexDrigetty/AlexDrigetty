@@ -10,7 +10,7 @@ Estudiante de **Ingeniería de Sistemas e Informática** apasionado por el desar
 * **Bases de Datos:** MySQL, PostgreSQL, SQL Server.
 * **Frontend & Web:** JavaScript, TypeScript, Angular, React, Tailwind CSS, HTML/CSS (Blade).
 * **DevOps & Herramientas: Git, GitHub, Linux (básico), Postman, Docker (básico), CI/CD con GitHub Actions.
-* ** IDEs: IntelliJ IDEA, VS Code
+* **IDEs: IntelliJ IDEA, VS Code
 
 ---
 
