@@ -9,7 +9,8 @@ Estudiante de **Ingeniería de Sistemas e Informática** apasionado por el desar
 * **Backend & Lenguajes:** PHP, Java, Python, Laravel, Spring Boot.
 * **Bases de Datos:** MySQL, PostgreSQL, SQL Server.
 * **Frontend & Web:** JavaScript, TypeScript, Angular, React, Tailwind CSS, HTML/CSS (Blade).
-* **Control de Versiones:** Git, GitHub.
+* **DevOps & Herramientas: Git, GitHub, Linux (básico), Postman, Docker (básico), CI/CD con GitHub Actions.
+* ** IDEs: IntelliJ IDEA, VS Code
 
 ---
 
